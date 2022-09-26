@@ -1,0 +1,26 @@
+body{
+	background-color: turquoise;
+	margin:0px;
+	padding:0px;
+}
+.carousel-item h5{
+    color: rgb(59, 196, 214);
+    font-style: unset;
+    font-size: 30px;
+    font-weight: 900;
+  
+}
+.carousel-item p{
+    color: rgb(0, 0, 0);
+    font-style: unset;
+    font-size: 20px;
+    font-weight: bolder;
+  
+}
+.text-center{
+    
+  margin: 350px 0px 100px 0px;
+  margin-right:0%;
+  margin-left: 0%;
+  
+}
